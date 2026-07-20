@@ -53,10 +53,28 @@
         "concepts/van-der-waals-energy-entropy.md"
       ],
       "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:25:00+03:30",
+      "size_bytes": 18239,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/magnetocaloric-effect.md",
+        "concepts/van-t-hoff-equation.md",
+        "concepts/poynting-effect.md",
+        "concepts/kelvin-equation-droplets.md",
+        "concepts/thermodynamic-stability.md",
+        "concepts/joule-thomson-inversion.md",
+        "concepts/hess-law-thermodynamics.md"
+      ],
+      "pages_updated": []
     }
   ],
   "stats": {
-    "total_sources_ingested": 3,
-    "total_pages": 20
+    "total_sources_ingested": 4,
+    "total_pages": 27
   }
 }

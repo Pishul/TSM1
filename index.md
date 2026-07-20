@@ -28,6 +28,13 @@ title: Wiki Index
 - [[slightly-relativistic-gas|ترمودینامیک گاز تقریباً نسبیتی]]
 - [[thermodynamic-potentials-differentials|دیفرانسیل پتانسیل‌های ترمودینامیکی با آلفا و کاپا]]
 - [[van-der-waals-energy-entropy|انرژی و آنتروپی گاز واندروالس]]
+- [[magnetocaloric-effect|اثر مغناطوکالریک و سرمایش بی‌دررو]]
+- [[van-t-hoff-equation|رابطه گیبس-هلمهولتز و معادله وانت‌هوف]]
+- [[poynting-effect|اثر پوینتین (Poynting Effect)]]
+- [[kelvin-equation-droplets|ترمودینامیک قطرات و معادله کلوین (Kelvin Equation)]]
+- [[thermodynamic-stability|معیارهای پایداری پتانسیل‌های ترمودینامیکی]]
+- [[joule-thomson-inversion|اثر ژول-تامسون و منحنی وارونگی]]
+- [[hess-law-thermodynamics|قانون هس و قانون کیرشهف در واکنش‌های شیمیایی]]
 
 ## Entities
 
