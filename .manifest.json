@@ -116,10 +116,55 @@
         "concepts/thermoacoustic-engine.md"
       ],
       "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:58:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch1-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch1"
+    },
+    {
+      "ingested_at": "2026-07-21T00:04:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch2-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch2"
+    },
+    {
+      "ingested_at": "2026-07-21T00:08:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch3-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch3"
+    },
+    {
+      "ingested_at": "2026-07-21T00:13:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch4-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch4"
+    },
+    {
+      "ingested_at": "2026-07-21T00:18:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch5-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch5"
     }
   ],
   "stats": {
-    "total_sources_ingested": 12,
-    "total_pages": 37
+    "total_sources_ingested": 11,
+    "total_pages": 64
   }
 }
