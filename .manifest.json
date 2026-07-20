@@ -102,10 +102,24 @@
         "concepts/wall-temperature-pressure-effect.md"
       ],
       "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:45:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/second-law-geometric-formulation.md",
+        "concepts/curzon-ahlborn-efficiency.md",
+        "concepts/thermoacoustic-engine.md"
+      ],
+      "pages_updated": []
     }
   ],
   "stats": {
-    "total_sources_ingested": 6,
-    "total_pages": 34
+    "total_sources_ingested": 12,
+    "total_pages": 37
   }
 }

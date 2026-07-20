@@ -42,7 +42,13 @@ title: Wiki Index
 - [[vacuum-pump-thermodynamics|ترمودینامیک پمپ‌های خلأ پیستونی]]
 - [[charged-droplets-rayleigh-limit|حد ریلی و تعادل قطرات باردار]]
 - [[wall-temperature-pressure-effect|اثر دمای دیواره بر فشار گاز (تعادل غیرگرمایی)]]
-
+- [[second-law-geometric-formulation|فرمول‌بندی هندسی قانون دوم ترمودینامیک]]
+- [[curzon-ahlborn-efficiency|بازده کرزون-آلبورن (بازده در توان ماکزیمم)]]
+- [[thermoacoustic-engine|موتور ترموآکوستیک]]
+- [[first-law-thermodynamics|قانون اول ترمودینامیک و تعریف عملیاتی گرما]]
+- [[thermodynamic-reversibility-timescales|برگشت‌پذیری ترمودینامیکی و مقیاس‌های زمانی]]
+- [[ideal-gas-dimensional-analysis|استخراج معادله حالت گاز ایده‌آل با تحلیل ابعادی]]
+- [[carnot-theorem-proof|اثبات قضیه کارنو (با برهان خلف)]]
 ## Entities
 
 ## Skills
