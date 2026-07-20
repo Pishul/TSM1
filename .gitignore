@@ -1,3 +1,6 @@
 /Source_Project
 *.pdf
 *.png
+*.txt
+.agents/
+.obsidian/

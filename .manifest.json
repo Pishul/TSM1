@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "ingested_at": "2026-07-20T23:02:00+03:30",
+      "size_bytes": 13419,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/partial-derivatives.md",
+        "concepts/eulers-homogeneous-theorem.md",
+        "concepts/exact-differentials.md",
+        "concepts/gaussian-integrals.md",
+        "concepts/thermal-contact-equilibrium.md",
+        "concepts/rubber-band-thermodynamics.md",
+        "concepts/second-law-refrigerator.md"
+      ],
+      "pages_updated": []
+    }
+  ],
+  "stats": {
+    "total_sources_ingested": 1,
+    "total_pages": 7
+  }
+}
