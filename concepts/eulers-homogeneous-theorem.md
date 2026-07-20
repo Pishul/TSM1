@@ -29,3 +29,13 @@ $$ \sum_{j=1}^{k} \frac{\partial F(x_1, x_2, \cdots, x_k)}{\partial x_j} x_j = p
 ## مفاهیم مرتبط
 - [[partial-derivatives]]
 - کمیت‌های فزونور و شدتی
+
+## تمرین‌ها و پاسخ‌ها (بر اساس تکالیف)
+
+### تمرین ۲: اثبات قضیه اویلر
+**سوال)** نشان دهید که اگر $F(\lambda x_1, \dots, \lambda x_k) = \lambda^p F(x_1, \dots, x_k)$ باشد، رابطه اویلر برقرار است.
+**پاسخ:**
+از دو طرف تساوی نسبت به $\lambda$ مشتق می‌گیریم. طبق قاعده زنجیره‌ای برای مشتق سمت چپ داریم:
+$$ \sum_{j=1}^k \frac{\partial F}{\partial (\lambda x_j)} \frac{\partial (\lambda x_j)}{\partial \lambda} = p \lambda^{p-1} F(x_1, \dots, x_k) $$
+با توجه به اینکه $\frac{\partial (\lambda x_j)}{\partial \lambda} = x_j$، با قرار دادن $\lambda=1$ رابطه اویلر مستقیماً ثابت می‌شود:
+$$ \sum_{j=1}^k \frac{\partial F(x_1, \dots, x_k)}{\partial x_j} x_j = p F(x_1, \dots, x_k) $$

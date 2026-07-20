@@ -32,3 +32,25 @@ $$ \left( \frac{\partial G}{\partial y} \right)_{x} = \left( \frac{\partial G}{\
 
 ## مفاهیم مرتبط
 - [[exact-differentials]]
+
+## تمرین‌ها و پاسخ‌ها (بر اساس تکالیف)
+
+### تمرین ۱: اثبات قضایای مشتقات جزئی
+**سوال الف)** با استفاده از متغیرهای $x=x(y,z)$ و $z=z(x,y)$ روابط چرخه‌ای و وارون را ثابت کنید.
+**پاسخ:**
+مطابق دیفرانسیل کامل داریم:
+$$ dx = \left(\frac{\partial x}{\partial y}\right)_z dy + \left(\frac{\partial x}{\partial z}\right)_y dz $$
+$$ dz = \left(\frac{\partial z}{\partial x}\right)_y dx + \left(\frac{\partial z}{\partial y}\right)_x dy $$
+با قرار دادن دومی در اولی و فرض $dy=0$ و سپس $dx=0$ ثابت می‌شود که:
+$$ \left(\frac{\partial x}{\partial z}\right)_y \left(\frac{\partial z}{\partial x}\right)_y = 1 $$
+$$ \left(\frac{\partial x}{\partial y}\right)_z \left(\frac{\partial y}{\partial z}\right)_x \left(\frac{\partial z}{\partial x}\right)_y = -1 $$
+
+**سوال ب)** همین قضایا را برای چهار متغیر وابسته بسط دهید.
+**پاسخ:**
+با استفاده از روش مشابه و دیفرانسیل سه‌متغیره، برای $w=w(x,y,z)$ بدست می‌آید:
+$$ \left( \frac{\partial w}{\partial x} \right)_{y,z} \left( \frac{\partial x}{\partial z} \right)_{y,w} \left( \frac{\partial z}{\partial w} \right)_{y,x} = -1 $$
+
+**سوال ج)** نشان دهید برای تابعی مثل $G(x,y)$:
+$$ \left( \frac{\partial G}{\partial y} \right)_{x} = \left( \frac{\partial G}{\partial z} \right)_{x} \left( \frac{\partial z}{\partial y} \right)_{x} $$
+**پاسخ:** 
+با در نظر گرفتن $G=G(x,z(x,y))$ و گرفتن مشتق زنجیره‌ای نسبت به $y$ (در $x$ ثابت) مستقیماً به رابطه فوق می‌رسیم.
