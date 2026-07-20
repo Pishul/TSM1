@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "ingested_at": "2026-07-20T23:02:00+03:30",
+      "size_bytes": 13419,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/partial-derivatives.md",
+        "concepts/eulers-homogeneous-theorem.md",
+        "concepts/exact-differentials.md",
+        "concepts/gaussian-integrals.md",
+        "concepts/thermal-contact-equilibrium.md",
+        "concepts/rubber-band-thermodynamics.md",
+        "concepts/second-law-refrigerator.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:14:00+03:30",
+      "size_bytes": 11439,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/carnot-engine.md",
+        "concepts/gas-spring-system.md",
+        "concepts/heat-capacities-difference.md",
+        "concepts/kelvin-statement-paradox.md",
+        "concepts/rubber-band-heat-engine.md",
+        "concepts/thermodynamics-in-cosmology.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:18:00+03:30",
+      "size_bytes": 13190,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/gas-equilibrium-partition.md",
+        "concepts/heat-capacity-derivatives.md",
+        "concepts/legendre-transform-convexity.md",
+        "concepts/maximum-work-extraction.md",
+        "concepts/slightly-relativistic-gas.md",
+        "concepts/thermodynamic-potentials-differentials.md",
+        "concepts/van-der-waals-energy-entropy.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:25:00+03:30",
+      "size_bytes": 18239,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/magnetocaloric-effect.md",
+        "concepts/van-t-hoff-equation.md",
+        "concepts/poynting-effect.md",
+        "concepts/kelvin-equation-droplets.md",
+        "concepts/thermodynamic-stability.md",
+        "concepts/joule-thomson-inversion.md",
+        "concepts/hess-law-thermodynamics.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:30:00+03:30",
+      "size_bytes": 8365,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/clement-desormes-experiment.md",
+        "concepts/adiabatic-piston-equilibrium.md",
+        "concepts/gravity-thermal-expansion-paradox.md"
+      ],
+      "pages_updated": [
+        "concepts/gas-spring-system.md"
+      ]
+    },
+    {
+      "ingested_at": "2026-07-20T23:34:00+03:30",
+      "size_bytes": 6313,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/c-p-c-v-electrical-measurement.md",
+        "concepts/vacuum-pump-thermodynamics.md",
+        "concepts/charged-droplets-rayleigh-limit.md",
+        "concepts/wall-temperature-pressure-effect.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:45:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/second-law-geometric-formulation.md",
+        "concepts/curzon-ahlborn-efficiency.md",
+        "concepts/thermoacoustic-engine.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:58:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch1-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch1"
+    },
+    {
+      "ingested_at": "2026-07-21T00:04:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch2-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch2"
+    },
+    {
+      "ingested_at": "2026-07-21T00:08:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch3-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch3"
+    },
+    {
+      "ingested_at": "2026-07-21T00:13:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch4-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch4"
+    },
+    {
+      "ingested_at": "2026-07-21T00:18:00+03:30",
+      "size_bytes": 0,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:batch5-lecture-notes",
+      "source_type": "document",
+      "project": null,
+      "source_path": "C:\\Users\\Mester\\Desktop\\semester 4\\TSM1\\exam\\Lecture_Notes\\Batch5"
+    }
+  ],
+  "stats": {
+    "total_sources_ingested": 11,
+    "total_pages": 64
+  }
+}
