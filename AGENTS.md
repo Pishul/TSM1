@@ -11,7 +11,7 @@ Your goal is to help the user understand the concepts, solve problems, and prepa
 
 ## Workflow
 When asked to solve a problem or explain a concept:
-1. **Wiki Query & Search:** Search the compiled wiki (`concepts/`, `index.md`, `Brain-Map.md`) and original `lecture_notes` for relevant material.
+1. **Wiki Query & Search:** Use the `wiki-query` skill (search `concepts/`, `index.md`, `Brain-Map.md`, and `lecture_notes`) to pull exact relevant sections and definitions before formulating an answer.
 2. **Professor Alignment:** Formulate the answer based on the Professor's specific approach if available in `lecture_notes` or corresponding `concepts/`.
 3. **Exam Traps:** Highlight any potential exam traps, mathematical subtleties, or edge cases.
 4. **Final Answer:** Present the final answer clearly with step-by-step mathematical derivations.
