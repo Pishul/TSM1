@@ -2,5 +2,6 @@
 *.pdf
 *.png
 *.txt
+.env
 .agents/
 .obsidian/
