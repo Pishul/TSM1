@@ -18,10 +18,45 @@
         "concepts/second-law-refrigerator.md"
       ],
       "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:14:00+03:30",
+      "size_bytes": 11439,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/carnot-engine.md",
+        "concepts/gas-spring-system.md",
+        "concepts/heat-capacities-difference.md",
+        "concepts/kelvin-statement-paradox.md",
+        "concepts/rubber-band-heat-engine.md",
+        "concepts/thermodynamics-in-cosmology.md"
+      ],
+      "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:18:00+03:30",
+      "size_bytes": 13190,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/gas-equilibrium-partition.md",
+        "concepts/heat-capacity-derivatives.md",
+        "concepts/legendre-transform-convexity.md",
+        "concepts/maximum-work-extraction.md",
+        "concepts/slightly-relativistic-gas.md",
+        "concepts/thermodynamic-potentials-differentials.md",
+        "concepts/van-der-waals-energy-entropy.md"
+      ],
+      "pages_updated": []
     }
   ],
   "stats": {
-    "total_sources_ingested": 1,
-    "total_pages": 7
+    "total_sources_ingested": 3,
+    "total_pages": 20
   }
 }
