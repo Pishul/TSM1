@@ -1,5 +1,5 @@
 ---
-title: TSM I Second Brain - Master Map
+title: TSM I - نقشه جامع مفاهیم
 aliases:
   - Brain Map
   - Knowledge Graph
@@ -12,79 +12,51 @@ cssclasses:
   - moc
 ---
 
-# 🧠 TSM I Second Brain — Master Map
+# 🧠 TSM I Second Brain — نقشه جامع
 
-> [!abstract] Mission
-> This vault is a **Living AI Second Brain** for the **Thermodynamics & Statistical Mechanics I (TSM I)** course. It interconnects all lecture notes, textbook chapters, homeworks, and concept synthesis notes into a navigable knowledge graph.
-> 
-> Open this in **Obsidian** and switch to **Graph View** to see the network.
+> [!abstract] ماموریت
+> این مجموعه یک **مغز دوم هوشمند** برای درس **ترمودینامیک و مکانیک آماری ۱ (TSM I)** است. تمامی جزوات، تکالیف، مفاهیم و کتب مرجع به هم پیوند خورده‌اند. برای مشاهده گراف دانایی در آبسیدین به **Graph View** بروید.
 
 ---
 
-## 🗺️ Course Architecture (Big Picture)
+## 🗺️ ساختار کلی پروژه
 
-The course covers major topics in Thermodynamics and Statistical Mechanics.
-
-- **[[Thermodynamics]]** — Laws of thermodynamics, entropy, engines, potentials
-- **[[Statistical Mechanics]]** — Microstates, macrostates, ensembles (microcanonical, canonical, grand canonical)
-- **[[Applications]]** — Ideal gas, paramagnetism, phase transitions
+- **[[index|فهرست کل مفاهیم (Wiki Index)]]**: لیست کامل تمامی مفاهیمی که استخراج و به هم متصل شده‌اند (این صفحه به صورت خودکار توسط سیستم بروزرسانی می‌شود).
+- **[[log|تاریخچه فعالیت‌های سیستم]]**: لاگ فعالیت‌های هوش مصنوعی و فرآیند پردازش منابع.
 
 ---
 
-## 📂 Vault Structure
+## 📂 منابع و مستندات
 
-```mermaid
-graph TD
-    Root[🧠 Brain-Map.md] --> W[/Wiki/]
-    Root --> J[/Journal/]
-    Root --> LN[/lecture_notes/]
-    Root --> TX[/textbook/]
-    Root --> HW[/Home_Works/]
-    Root --> AG[AGENTS.md]
+### 📝 جزوات درس (Lecture Notes)
+مجموعه جزوات کلاسی که منبع اصلی برای استخراج مفاهیم هستند:
+- [[TSM I- n4]]، [[TSM I- n5]]، [[TSM I- n6]]، [[TSM I- n7]]، [[TSM I- n8]]، [[TSM I- n9]]
+- [[TSM I- n10]]، [[TSM I- n11]]، [[TSM I- n12]]، [[TSM I- n13]]
+- [[TSM I- n14]]، [[TSM I- n15]]، [[TSM I- n16]]، [[TSM I- n17]]
+- [[TSM I- n18]]، [[TSM I- n19]]، [[TSM I- n20]]، [[TSM I- n21]]، [[TSM I- n22]]، [[TSM I- n23]]
 
-    W --> W1[Concept Hubs]
-    J --> J1[Lecture Index]
-```
+### 📝 تمرین‌ها و پاسخ‌ها (Home Works)
+تکالیف و پاسخ‌نامه‌ها که مفاهیم آن‌ها نیز در شبکه گنجانده شده است:
+- [[TSMI - HW1]] | [[TSMI - HW1 - Solutions]]
+- [[TSMI - HW2-1]] | [[TSMI - HW2 - Solutions]]
+- [[TSMI - HW3]] | [[TSMI - HW4]]
+- [[Set-1-Thermodynamics(1)]] | [[Set-2-Thermodynamics(1)]]
+- مقالات و المپیاد: [[IPhO_2019_Q3]]، [[IPhO_2019_S3]]، [[curzon1975]]، [[The Second Law of Thermodynamcis]]
 
----
-
-## 🔑 Core Concept Hubs
-
-- [[Laws of Thermodynamics]]
-- [[Statistical Ensembles]]
-- [[Partition Function]]
-
----
-
-## 📅 Lecture Timeline
-
-> [!tip] Navigation
-> See [[Lecture Index]] for the full chronological list.
+### 📚 کتب و منابع مکمل (Textbooks)
+کتاب‌ها به صورت خام و فقط برای جستجو نگهداری می‌شوند تا تداخلی با روش استاد نداشته باشند:
+- [[Blundell & Blundell-Concepts in thermal physics]]
+- [[Blundell - Thermal Physics Solutions 2nd_@physlib]]
+- [[ترمودینامیک تعادل]]، [[ترمودینامیک زیمانسکی]]
+- [[دوره برکلی جلد پنجم آماری رایف]]، [[فیزیک گرما مورس]]
 
 ---
 
-## 📚 Textbook Reference
+## ⚠️ مدیریت و ساختار
 
-- [[ترمودینامیک زیمانسکی]]
-- [[دوره برکلی جلد پنجم آماری رایف]]
-- [[فیزیک گرما مورس]]
-- [[Concepts in Thermal Physics (Blundell)]]
-
----
-
-## 📝 Home Works
-
-- [[HW1]]
-- [[HW2]]
-- [[HW3]]
-- [[HW4]]
+- **[[AGENTS]]** — دستورالعمل‌ها و قوانین هوش مصنوعی برای این پروژه.
+- **[[task]]** — لیست کارهای در حال انجام و تکمیل شده.
+- **[[hot]]** — صفحاتی که اخیراً ویرایش شده و داغ هستند.
 
 ---
-
-## ⚠️ Quality Control
-
-- [[AGENTS]] — The AI agent's rulebook
-
----
-
-*Last updated: {{date}}*
+*آخرین بروزرسانی: توسط Antigravity AI*
