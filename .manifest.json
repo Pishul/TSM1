@@ -71,10 +71,41 @@
         "concepts/hess-law-thermodynamics.md"
       ],
       "pages_updated": []
+    },
+    {
+      "ingested_at": "2026-07-20T23:30:00+03:30",
+      "size_bytes": 8365,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/clement-desormes-experiment.md",
+        "concepts/adiabatic-piston-equilibrium.md",
+        "concepts/gravity-thermal-expansion-paradox.md"
+      ],
+      "pages_updated": [
+        "concepts/gas-spring-system.md"
+      ]
+    },
+    {
+      "ingested_at": "2026-07-20T23:34:00+03:30",
+      "size_bytes": 6313,
+      "modified_at": 1721477289,
+      "content_hash": "sha256:unknown-but-ingested",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/c-p-c-v-electrical-measurement.md",
+        "concepts/vacuum-pump-thermodynamics.md",
+        "concepts/charged-droplets-rayleigh-limit.md",
+        "concepts/wall-temperature-pressure-effect.md"
+      ],
+      "pages_updated": []
     }
   ],
   "stats": {
-    "total_sources_ingested": 4,
-    "total_pages": 27
+    "total_sources_ingested": 6,
+    "total_pages": 34
   }
 }

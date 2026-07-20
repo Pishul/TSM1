@@ -35,6 +35,13 @@ title: Wiki Index
 - [[thermodynamic-stability|معیارهای پایداری پتانسیل‌های ترمودینامیکی]]
 - [[joule-thomson-inversion|اثر ژول-تامسون و منحنی وارونگی]]
 - [[hess-law-thermodynamics|قانون هس و قانون کیرشهف در واکنش‌های شیمیایی]]
+- [[clement-desormes-experiment|آزمایش کلمنت-دسوزم (Clément-Desormes)]]
+- [[adiabatic-piston-equilibrium|تعادل آدیاباتیک پیستون (فرآیند برگشت‌ناپذیر)]]
+- [[gravity-thermal-expansion-paradox|اثر گرانش بر انبساط گرمایی (معمای دو کره)]]
+- [[c-p-c-v-electrical-measurement|اندازه‌گیری گاما با گرمایش الکتریکی]]
+- [[vacuum-pump-thermodynamics|ترمودینامیک پمپ‌های خلأ پیستونی]]
+- [[charged-droplets-rayleigh-limit|حد ریلی و تعادل قطرات باردار]]
+- [[wall-temperature-pressure-effect|اثر دمای دیواره بر فشار گاز (تعادل غیرگرمایی)]]
 
 ## Entities
 

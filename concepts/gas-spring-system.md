@@ -1,7 +1,7 @@
 ---
 title: سیستم‌های مکانیکی-ترمودینامیکی مزدوج (گاز و فنر)
 tags: [thermodynamics, mechanics, coupled-systems]
-sources: ["[[TSMI - HW2-1.md]]"]
+sources: ["[[TSMI - HW2-1.md]]", "[[Set-1-Thermodynamics(1).md]]"]
 summary: بررسی سیستم‌های ترمودینامیکی که با عناصر مکانیکی مانند فنر در حال تعادل و نوسان هستند.
 base_confidence: 0.9
 lifecycle: draft
